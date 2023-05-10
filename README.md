@@ -11,5 +11,4 @@ In diesem Repository sind die Unterlagen meiner gängigsten Seminare abgelegt:
   * Design Pattern in C++
   * Umstieg klassisches C++ auf Modern C++
 
-Weitere Informationen finden sich unter [peterloos.de/page/training/](https://peterloos.de/page/training/).<br/>
-[![HitCount](https://hits.dwyl.com/Peter Loos/pelocpp/pelocpp.svg?style=flat-square)](http://hits.dwyl.com/Peter Loos/pelocpp/pelocpp)
+Weitere Informationen finden sich unter [peterloos.de/page/training/](https://peterloos.de/page/training/).
