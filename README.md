@@ -1,4 +1,4 @@
-## Peter Loos
+#### Peter Loos
 
 Hallo! Ich heiße Peter Loos! Seit über 30 Jahren arbeite ich als Software-Entwickler, Trainer, Lehrer, Autor und Programmiersprachen-Liebhaber im Umfeld von C/C++, Java, C# und vielen anderen Software-Technologien.
 Seit geraumer Zeit bin ich wieder zu meinen C++-Wurzeln zurückgekehrt und ein Anhänger des so genannten “Modern C++” geworden.
