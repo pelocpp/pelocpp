@@ -13,9 +13,6 @@ In diesem Repository sind die Unterlagen meiner gängigsten Seminare abgelegt:
 
 Weitere Informationen finden sich unter [peterloos.de/page/training/](https://peterloos.de/page/training/).
 
-<div dir="rtl">
-   [![HitCount](https://hits.dwyl.com/pelocpp/pelocpp/pelocpp.svg?style=flat-square)](http://hits.dwyl.com/pelocpp/pelocpp/pelocpp)
-</div>
- 
-
-
+<!---
+[![HitCount](https://hits.dwyl.com/pelocpp/pelocpp/pelocpp.svg?style=flat-square)](http://hits.dwyl.com/pelocpp/pelocpp/pelocpp) 
+--->
