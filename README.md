@@ -7,7 +7,7 @@ In diesem Repository sind die Unterlagen meiner gängigsten Seminare abgelegt:
 
   * C/C++ Grundlagen Programmierung (Basiswissen)
   * C++ Programmierung für Fortgeschrittene
-  * Modern C++ (Erweiterungen C++11 bis C++20)
+  * Modern C++ (Erweiterungen C++11 bis C++23)
   * Design Pattern in C++
   * Umstieg klassisches C++ auf Modern C++
 
