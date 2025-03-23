@@ -9,6 +9,7 @@ In diesem Repository sind die Unterlagen meiner gängigsten Seminare abgelegt:
   * C++ Programmierung für Fortgeschrittene
   * Modern C++ (Erweiterungen C++11 bis C++23)
   * Design Pattern in C++
+  * Clean Code Guidelines für C++ Entwickler
   * Umstieg klassisches C++ auf Modern C++
 
 Weitere Informationen finden sich unter [peterloos.de/page/training/](https://peterloos.de/page/training/).
